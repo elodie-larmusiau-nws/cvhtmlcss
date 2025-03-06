@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Accueil</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="cv-container">
+        <div class="header">
+            <img src="photocv.jpg" alt="Photo de profil" class="photocv">
+         <h2>Recherche un stage <br> en communication digitale <br> du 10 mars au 20 juin </h2>
+            <p>elarmusiau@normandiewebschool.fr | 06 34 87 39 35 | Barentin <br> <br> Actuellement étudiante à la Normandie Web School, je recherche un stage alterné d’une durée de 2 mois dans le domaine de la communication digitale/marketing digital.</p>
+       
+        </div>
+        <div class="main-content">
+            <div class="content">
+                <div class="left-column">
+                    <div class="section">
+                        <h3 class="section-title">Expériences Professionnelles</h3>
+                        <p><strong class="rounded-box">2022 - 2023</strong> Animatrice Service Civique</p>
+                        <ul>
+                            <li>Accueil des enfants</li>
+                            <li>Aide à la réalisation des activités</li>
+                        </ul>
+                    </div>
+                    <div class="section">
+                        <h3 class="section-title">Compétences</h3>
+                        <li>Graphique réseaux sociaux</li>
+                        <li>Photo et vidéo</li>
+                        <li>Création de site web</li>
+                    </div>
+                    <div class="section">
+                        <h3 class="section-title">Soft Skills</h3>
+                        <span class="rounded-box">Organisation</span>
+                        <span class="rounded-box">Adaptabilité</span>
+                        <span class="rounded-box">Empathie</span>
+                    </div>
+                    <div class="section software">
+                        <h3 class="section-title">Logiciels</h3>
+                        <span>WordPress</span>
+                        <span>Figma</span>
+                        <span>Photoshop</span>
+                        <span>Illustrator</span>
+                    </div>
+                </div>
+                <div class="right-column">
+                    <div class="section">
+                        <h3 class="section-title">Formation</h3>
+                        <p><strong class="rounded-box">2024 - 2027</strong> Bachelor Chef de Projets Digitaux</p>
+                        <p>Normandie Web School</p>
+                        <ul>
+                            <li>Création de visuels</li>
+                            <li>Chartographie</li>
+                            <li>SEO, SEA</li>
+                            <li>Action marketing</li>
+                        </ul>
+                    </div>
+                    <div class="section projects">
+                        <h3 class="section-title">Projets Réalisés</h3>
+                        <p><strong class="rounded-box">Octobre 2024</strong> Projet BDE</p>
+                        <ul>
+                            <li>Réalisation d’une affiche</li>
+                            <li>Création d’un logo</li>
+                        </ul>
+                        <p><strong class="rounded-box">Décembre 2024</strong> Projet Club Eco Saint Sever</p>
+                        <ul>
+                            <li>Création d’un Moodboard</li>
+                            <li>Création d’une maquette de site web</li>
+                        </ul>
+                        <p><strong class="rounded-box">Janvier 2024</strong> Projet Handisup</p>
+                        <ul>
+                            <li>Maquette Figma</li>
+                            <li>Arborescence</li>
+                            <li>Refonte de site via WordPress</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
